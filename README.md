@@ -1,0 +1,2 @@
+# classical_captcha
+这是一个基于canvas实现的普通验证码
