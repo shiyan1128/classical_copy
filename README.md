@@ -1,2 +1,2 @@
-# classical_captcha
-这是一个基于canvas实现的普通验证码
+# classical_copy
+这是一个随机验证码的代码
